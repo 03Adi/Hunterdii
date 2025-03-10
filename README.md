@@ -95,8 +95,7 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <!--🖼️OCTOCAT-->
-<p align="center"><a href="https://github.com/sponsors/Hunterdii">
-<img src="https://media.giphy.com/media/IP7sarl7C5lSFCw9rG/giphy.gif"  width="100px" height="100px"></p></a>
+
 
 <!--🌯GITHUBTERMINALSTATS💻 / 🌐WEBSITE: https://github.com/Hunterdii/GitHub-Terminal -->
 
